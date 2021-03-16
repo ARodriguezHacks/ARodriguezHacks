@@ -9,3 +9,5 @@
 - Fun Facts:
   - I love learning foreign languages, currently learning French and Japanese via Busuu
   - My favorite anime shows are FullMetal Alchemist and Fruits Basket
+
+https://img.shields.io/badge/-HTML5-orange
