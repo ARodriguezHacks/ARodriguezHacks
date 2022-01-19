@@ -1,11 +1,11 @@
-## Hi, I'm Angie 🍁
-### Front End Software Engineer | React | Redux | Rails
+## Hi, I'm Angie 
+### Front End Software Engineer
 
-- 🖥 &nbsp; I'm involved with [CodeForPDX](https://www.codeforpdx.org/) and [Mentor Mesh](https://mentormesh.io/)
-- 🌱 &nbsp; I’m currently learning the MERN Stack, TypeScript, and reviewing Ruby and JavaScript data structures
+- 🖥 &nbsp; I'm involved with [Mentor Mesh](https://mentormesh.io/)
+- 🌱 &nbsp; I’m currently learning the Python, JavaScript data structures, and Ken C Dodd's EpicReact.
 - 🌺 &nbsp; My personal website: [angierodriguez.dev](https://angierodriguez.dev/)
 - 🎵 &nbsp; Currently jamming to the Final Fantasy VII OST
-- 💜 &nbsp; Always open to connecting. My only social media is [LinkedIn](https://www.linkedin.com/in/angie-rodriguez-web-developer/)
+- 💜 &nbsp; Always open to connecting. My only social media is [LinkedIn](https://www.linkedin.com/in/angierodriguezdev/)
 - Fun Facts:
   - I love learning foreign languages, currently learning French and Japanese via Busuu
   - My favorite anime shows are FullMetal Alchemist and Fruits Basket
