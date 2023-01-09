@@ -3,7 +3,7 @@
 
 - 🌱 &nbsp; I’m currently learning Python via freeCodeCamp and TypeScript and Sass via Codecademy
 - 🌺 &nbsp; My personal website: [angierodriguez.dev](https://angierodriguez.dev/)
-- 🎵 &nbsp; Currently jamming to the 13 Senteninels: Aegis Rim video game OST
+- 🎵 &nbsp; Currently jamming to the 13 Sentinels: Aegis Rim video game OST
 - 💜 &nbsp; Always open to connecting. My only social media is [LinkedIn](https://www.linkedin.com/in/angierodriguezdev/)
 - Fun Facts:
   - I love learning foreign languages, currently learning French and Japanese
