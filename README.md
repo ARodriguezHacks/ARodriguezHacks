@@ -9,4 +9,4 @@
   - I love learning foreign languages, currently learning French and Japanese
   - I've lived in Spain for 3 months
   - I have a new kitten, her name is Maggie
-  - Avid reader. Just Finished: "Great Expectations" by Charles Dickens. Currently reading: ""
+  - Avid reader. Just Finished: "Great Expectations" by Charles Dickens. Currently reading: "El juego del ángel" by Carlos Ruíz Zafón
