@@ -11,3 +11,5 @@
   - I have 2 kittens, their names are Maggie and Thunder
   - Avid reader. Just Finished: "Great Expectations" by Charles Dickens.
     Currently reading: Crave YA series by Tracy Wolff
+    
+<a href="https://app.daily.dev/angierrz"><img src="https://api.daily.dev/devcards/9859aad4d5d741ff8f5435a40576d9bc.png?r=oho" width="400" alt="Angie Rodriguez's Dev Card"/></a>
