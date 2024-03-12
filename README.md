@@ -1,7 +1,7 @@
 ## Hi, I'm Angie 
 ### Front End Software Engineer
 
-- 🌱 &nbsp; I’m currently learning Python, Cloud Computing, and Docker
+- 🌱 &nbsp; I’m currently learning Python, Java, and Data Structures and Algorithms
 - 🌺 &nbsp; My personal website: [angierodriguez.dev](https://angierodriguez.dev/)
 - 🎵 &nbsp; I love jamming to video game music, like 13 Sentinels Aegis Rim OST
 - 💜 &nbsp; Always open to connecting. My only social media is [LinkedIn](https://www.linkedin.com/in/angierodriguezdev/)
